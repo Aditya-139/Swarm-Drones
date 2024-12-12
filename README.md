@@ -96,7 +96,7 @@ python model_training.py
 
 ## Author
 
-- [Your Name](https://github.com/YOUR_USERNAME)
+- [ADITYA](https://github.com/Aditya-139)
 
 ## Acknowledgments
 - Special thanks to the contributors of the [DJI SDK](https://github.com/dji-sdk).
